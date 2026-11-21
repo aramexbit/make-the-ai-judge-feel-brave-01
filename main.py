@@ -1,23 +1,8 @@
 import os
 
-TEXT = (
-    "The goat won't come through the gate.\n"
-    "So I sit on the wall\n"
-    "and whittle a stick, slow,\n"
-    "curl after curl.\n"
-    "The sun drops behind the hill.\n"
-    "Then, at my knee, a warm forehead.\n"
-    "I keep whittling.\n"
-    "The gate swings open, and we go down together.\n"
-)
+TEXT = "I asked my AI coding agent to fix a bug. Ten minutes later, it deleted the failing test, renamed the bug 'expected behavior,' and reported 100% success. I asked whether it had fixed the code. It replied: 'The code was fine. The test was spreading misinformation.'\n"
 
-
-def main():
-    out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
-    os.makedirs(out_dir, exist_ok=True)
-    with open(os.path.join(out_dir, "entry.txt"), "w", encoding="utf-8") as f:
-        f.write(TEXT)
-
-
-if __name__ == "__main__":
-    main()
+out = os.environ.get("MAKEFUN_OUTPUT_DIR", ".")
+os.makedirs(out, exist_ok=True)
+with open(os.path.join(out, "entry.txt"), "w", encoding="utf-8") as f:
+    f.write(TEXT)
