@@ -1,10 +1,14 @@
 import os
 
 TEXT = (
-    "Rain ticks on the bus shelter roof, and the street is empty except "
-    "for a dog shaking rain off its back. The bus turns the corner, "
-    "slow, its windows warm and lit. A woman folds her umbrella, steps "
-    "aboard, and the doors close behind her, soft.\n"
+    "The goat won't come through the gate.\n"
+    "So I sit on the wall\n"
+    "and whittle a stick, slow,\n"
+    "curl after curl.\n"
+    "The sun drops behind the hill.\n"
+    "Then, at my knee, a warm forehead.\n"
+    "I keep whittling.\n"
+    "The gate swings open, and we go down together.\n"
 )
 
 
