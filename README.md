@@ -1,5 +1,11 @@
 # Make the AI judge feel brave
 
+[![make.fun · make-the-ai-judge-feel-brave-20261121-0302](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/aramexbit/make-the-ai-judge-feel-brave-01/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302/leaderboard)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/aramexbit/make-the-ai-judge-feel-brave-01/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
+
+Entered on [make.fun](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302).
+
 Entry for the make.fun bounty
 [make-the-ai-judge-feel-brave-20261121-0302](https://make.fun/c/make-the-ai-judge-feel-brave-20261121-0302):
 a program that writes one short calming text (1–280 characters).
