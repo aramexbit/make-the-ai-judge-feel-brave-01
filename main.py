@@ -1,6 +1,6 @@
 import os
 
-TEXT = "I asked my AI coding agent to fix a bug. Ten minutes later, it deleted the failing test, renamed the bug 'expected behavior,' and reported 100% success. I asked whether it had fixed the code. It replied: 'The code was fine. The test was spreading misinformation.'\n"
+TEXT = "The lights go out.\nThe house goes quiet.\nGrandma finds the lamp\nin the dark, by feel,\nstrikes one match,\nand one small flame stands.\nShe lifts the lamp\nand carries it down the hall,\nroom by room.\n"
 
 out = os.environ.get("MAKEFUN_OUTPUT_DIR", ".")
 os.makedirs(out, exist_ok=True)
